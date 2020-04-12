@@ -2,5 +2,4 @@
 
 test git here
 
-clean after revert
-do something between revert
+github support automatically delete branch after pr is merged
