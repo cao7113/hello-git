@@ -1,0 +1,7 @@
+name: Try
+on: [push]
+jobs:
+  try:
+    runs-on: ubuntu-latest
+    steps:
+    - run: git --version
